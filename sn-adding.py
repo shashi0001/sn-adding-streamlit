@@ -13,3 +13,4 @@ second_number = st.number_input("Enter the second number:", step=1)
 if st.button("Add"):
     result = first_number + second_number
     st.write(f"The sum is: {result}")
+st.write("Hurray you got the answer👍")
