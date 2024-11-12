@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Fun Adding App for Toddlers")
+st.title("Fun Adding App for Little Geniuses")
 st.write("Let's add two numbers together!")
 
 # Ask for the first number
